@@ -1,0 +1,9 @@
+repositories\ProductoRepositoryJSON.class
+exceptions\ProductoNoEncontradoException.class
+controllers\ProductoController.class
+Principal\MainFX.class
+models\Proveedor.class
+repositories\ProductoRepository.class
+models\Producto.class
+views\ProductoViewFX.class
+utils\LectorJSON.class
